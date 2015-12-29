@@ -1,0 +1,85 @@
+/*////////////////GLOBAL/////////////////*/
+body {
+    font-family: ("Segoe UI")
+}
+
+
+/*/////////////.sl-slider-wrapper///////////////*/
+.demo-2 .sl-slider-wrapper {
+    height: 670px;
+}
+.bg-img.bg-img-1,
+.bg-img.bg-img-2, 
+.bg-img.bg-img-3,
+.bg-img.bg-img-4,
+.bg-img.bg-img-5 {
+     background-image: url(../img/content/layer-1.jpg);
+
+}
+.sl-slide-inner {
+    text-align: center;
+}
+.blackoute {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: black;
+    opacity: 0.7;
+}
+.sl-slide-inner .slide-content {
+    margin-top: 165px;
+}
+.demo-2 .bg-img {
+    top: 0;
+    left: 0;
+    padding: 0;
+}
+.demo-2 .sl-slider h2 {
+    height: 177px;
+    font-family: "Segoe UI";
+    font-weight: 100;
+    line-height: 24px;
+    font-size: 60px;
+}
+.demo-2 .sl-slider h2 span {
+    color: #fdc300;
+}
+.demo-2 .sl-slider p {
+    color: white;
+    font-size: 18px;
+    font-weight: 100;
+    font-family: "Segoe UI";
+}
+.demo-2 .sl-slider blockquote {
+    border: none;
+    padding-top: 0;
+}
+.head-slider blockquote p {
+    max-width: 646px;
+    margin: 0 auto;
+}
+.head-slider blockquote .url-holder {
+    text-align: center;
+    margin-top: 38px;
+}
+.head-slider blockquote a {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 18px;
+    text-transform: uppercase;
+    padding: 11px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #fff;
+    border: 1px solid #fff; 
+    text-decoration: none;
+    font-family: "Segoe UI";
+}
+.nav-dots span.nav-dot-current:after {
+    background: #fdc300;
+}
+.demo-2 .nav-dots span.nav-dot-current,
+.demo-2 .nav-dots span:hover {
+    -webkit-box-shadow: 0 1px 1px rgba(226, 19, 19, 0.4), inset 0 1px 1px rgba(0,0,0,0.1), 0 0 0 5px #fdc300;
+    box-shadow: 0 1px 1px rgba(226, 19, 19, 0.4), inset 0 1px 1px rgba(0,0,0,0.1), 0 0 0 3px #fdc300;
+}

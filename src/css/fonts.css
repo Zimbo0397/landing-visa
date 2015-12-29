@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Segoe UI";
+    src: url("../fonts/SegoeUIRegular.eot");
+    src: url("../fonts/SegoeUIRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SegoeUIRegular.woff") format("woff"),
+    url("../fonts/SegoeUIRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 300;
+}
+/* font-family: "SegoeUIBold"; */
+@font-face {
+    font-family: "Segoe UI";
+    src: url("../fonts/SegoeUIBold.eot");
+    src: url("../fonts/SegoeUIBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SegoeUIBold.woff") format("woff"),
+    url("../fonts/SegoeUIBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+/* font-family: "SegoeUIItalic"; */
+@font-face {
+    font-family: "Segoe UI";
+    src: url("../fonts/SegoeUIItalic.eot");
+    src: url("../fonts/SegoeUIItalic.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SegoeUIItalic.woff") format("woff"),
+    url("../fonts/SegoeUIItalic.ttf") format("truetype");
+    font-style: italic;
+    font-weight: normal;
+}
+/* font-family: "SegoeUILight"; */
+@font-face {
+    font-family: "Segoe UI";
+    src: url("../fonts/SegoeUILight.eot");
+    src: url("../fonts/SegoeUILight.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SegoeUILight.woff") format("woff"),
+    url("../fonts/SegoeUILight.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 100;
+}
+/* font-family: "SegoeUISemiBold"; */
+@font-face {
+    font-family: "Segoe UI";
+    src: url("../fonts/SegoeUISemiBold.eot");
+    src: url("../fonts/SegoeUISemiBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/SegoeUISemiBold.woff") format("woff"),
+    url("../fonts/SegoeUISemiBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 500;
+}
